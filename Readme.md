@@ -1,1 +1,1 @@
-hello I am Sneha bhardwaj. I am learing git.
+hello I am Sneha bhardwaj. I learnt basics of git.
